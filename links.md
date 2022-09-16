@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](https://michaelsinanta.github.io/os222/LINKS/) | [GitHub](https://github.com/michaelsinanta/os222)
+[HOME](https://michaelsinanta.github.io/os222/) | [LOG](TXT/mylog.txt) | [LINKS](https://michaelsinanta.github.io/os222/LINKS/) | [GitHub](https://github.com/michaelsinanta/os222)
 ##### By : ~ michaelsinanta ~
 # LINKS 🔗
 

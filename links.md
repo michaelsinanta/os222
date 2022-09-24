@@ -43,3 +43,17 @@ permalink: LINKS/
 
 4. [Understanding OS Security: Threats and Security Controls](https://www.hysolate.com/learn/sandboxing/understanding-os-security-threats-and-security-controls/)<br>
     This website explains the common OS security threats and how can we ensure the security of the operating system with a few ways to improve operating system security in the organization such as authentication measures, using one-time passwords, and virtualization.
+
+## 📁 Week 03
+
+1. [Virtual filesystems in Linux: Why we need them and how they work](https://opensource.com/article/19/3/virtual-filesystems-linux)<br>
+    This website provides a brief knowledge of the virtual filesystem in Linux, how to work on a virtual system in our computer’s operating system, and tell how the virtual system works and their implementation such as open(), read(), and write().
+
+2. [Fuse : Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+    This website gives you a solid knowledge of the basics of FUSE such as the userspace library and utilities available from the FUSE homepage, mount options, control filesystem, aborting filesystem connection, and kernel-user faced interface.
+
+3. [Directory Implementation in Operating System](https://www.geeksforgeeks.org/directory-implementation-in-operating-system/)<br>
+    This website provides an introduction to different ways of directory implementation in operating systems such as linked lists and hash tables. It also explains the reason why we need to choose an appropriate directory implementation algorithm to enhance the performance of the system.
+
+4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+    This website provides a solid knowledge of the basics of file allocation methods and their own advantages & disadvantages such as contiguous allocation, linked allocation, and indexed allocation. It also gives you information about the main idea behind these methods is to provide such as efficient disk space utilization and fast access to the file blocks.

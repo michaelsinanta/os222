@@ -57,3 +57,17 @@ permalink: LINKS/
 
 4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
     This website provides a solid knowledge of the basics of file allocation methods and their own advantages & disadvantages such as contiguous allocation, linked allocation, and indexed allocation. It also gives you information about the main idea behind these methods is to provide such as efficient disk space utilization and fast access to the file blocks.
+
+## 📚 Week 04
+
+1. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+    This website provides a brief knowledge of logical address and physical address and tells us more about their difference in basic, address space, visibility, generation, editable, and access.
+
+2. [How to Create Static Library and Use it in Linux](https://youtu.be/JU-vwvSH_0g)<br>
+    This video explains about static linking is the process of copying all library modules used in the program into the final executable image. The process is performed by the linker and it is done as the last step of the compilation process.
+
+3. [Difference Between Dynamic and Static Library](https://youtu.be/eW5he5uFBNM)<br>
+    This video explains the difference between the static and dynamic library, what is meaning of .dll in windows is, and how it works.
+    
+4. [Endianness: Big-Endian vs Little-Endian](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)<br>
+    This website gives us a solid introduction to what is endianness and its representation in two ways Big-endian (BE) and Little-endian (LE). It also explained about how it works and the coherence with Most Significant Byte (MSbyte) and Byte Order Mark (BOM).

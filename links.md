@@ -71,3 +71,14 @@ permalink: LINKS/
     
 4. [Endianness: Big-Endian vs Little-Endian](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)<br>
     This website gives us a solid introduction to what is endianness and its representation in two ways Big-endian (BE) and Little-endian (LE). It also explained about how it works and the coherence with Most Significant Byte (MSbyte) and Byte Order Mark (BOM).
+
+## ⚙️ Week 05
+
+1. [Page Replacement Algorithms](https://www.javatpoint.com/os-page-replacement-algorithms)<br>
+    This website provides a brief knowledge of the page replacement algorithm that decides which memory page is to be replaced. The process of replacement is sometimes called swap out or write to disk. Page replacement is done when the requested page is not found in the main memory (page fault).
+
+2. [Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+    In an operating system that uses paging for memory management, a page replacement algorithm is needed to decide which page needs to be replaced when a new page comes in. This website gives you a solid knowledge of page replacement algorithms such as First In First Out (FIFO), Optimal Page replacement, Least Recently Used, and Most Recently Used (MRU).
+
+3. [Copy on Write](https://www.geeksforgeeks.org/copy-on-write/)<br>
+    This website provides an introduction to Copy on Write or simply COW which is a resource management technique. One of its main use is in the implementation of the fork system call in which it shares the virtual memory (pages) of the OS.

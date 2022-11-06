@@ -82,3 +82,11 @@ permalink: LINKS/
 
 3. [Copy on Write](https://www.geeksforgeeks.org/copy-on-write/)<br>
     This website provides an introduction to Copy on Write or simply COW which is a resource management technique. One of its main use is in the implementation of the fork system call in which it shares the virtual memory (pages) of the OS.
+
+## 🌐 Week 06
+
+1. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+    This website provides a brief knowledge of the process scheduling, that is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.
+
+2. [Difference between Shared Memory Model and Message Passing Model in IPC](https://www.geeksforgeeks.org/difference-between-shared-memory-model-and-message-passing-model-in-ipc/)<br>
+    In IPC model, a shared memory region is established which is used by the processes for data communication. In this model, the processes communicate with each other by exchanging messages. For this purpose, a communication link must exist between the processes and it must facilitate at least two operations send (message) and receive (message).

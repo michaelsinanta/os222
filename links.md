@@ -91,3 +91,10 @@ permalink: LINKS/
 2. [Difference between Shared Memory Model and Message Passing Model in IPC](https://www.geeksforgeeks.org/difference-between-shared-memory-model-and-message-passing-model-in-ipc/)<br>
     In IPC model, a shared memory region is established which is used by the processes for data communication. In this model, the processes communicate with each other by exchanging messages. For this purpose, a communication link must exist between the processes and it must facilitate at least two operations send (message) and receive (message).
 
+## 💀 Week 07
+
+1. [Deadlock System Model](https://www.geeksforgeeks.org/deadlock-system-model/)<br>
+    This website provides a brief knowledge of the deadlock system. A deadlock occurs when a set of processes is stalled because each process is holding a resource and waiting for another process to acquire another resource. This website also provides what operations and necessary conditions for deadlock system model.
+
+2. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+    This website provides a great introduction for process synchronization. On the basis of synchronization, processes are categorized as one of the following two types: Independent Process, the execution of one process does not affect the execution of other processes; Cooperative Process: A process that can affect or be affected by other processes executing in the system.

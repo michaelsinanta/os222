@@ -98,3 +98,11 @@ permalink: LINKS/
 
 2. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
     This website provides a great introduction for process synchronization. On the basis of synchronization, processes are categorized as one of the following two types: Independent Process, the execution of one process does not affect the execution of other processes; Cooperative Process: A process that can affect or be affected by other processes executing in the system.
+
+## 💀 Week 08
+
+1. [Advantages and Disadvantages of various CPU scheduling algorithms](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-various-cpu-scheduling-algorithms/)<br>
+    This website provides a brief knowledge of CPU Scheduling involves many different scheduling algorithms which have their Advantages and Disadvantages. 
+
+2. [Multilevel Queue (MLQ) CPU Scheduling](https://www.geeksforgeeks.org/multilevel-queue-mlq-cpu-scheduling/)<br>
+    This website provides a great introduction of multilevel queue. It may happen that processes in the ready queue can be divided into different classes where each class has its own scheduling needs. For example, a common division is a foreground (interactive) process and a background (batch) process. These two classes have different scheduling needs. For this kind of situation Multilevel Queue Scheduling is used.
